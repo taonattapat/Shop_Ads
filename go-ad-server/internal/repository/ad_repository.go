@@ -27,6 +27,10 @@ func (r *AdRepository) Create(ad *models.Ad) error {
 	ad.Status = "active" // Default status
 	ad.Spent = 0
 
+	if ad.Budget == 0 {
+		ad.Budget = 1000 // Default budget to ensure it runs
+	}
+
 	result, err := r.Collection.InsertOne(context.Background(), ad)
 	if err != nil {
 		return err

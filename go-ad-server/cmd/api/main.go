@@ -8,6 +8,7 @@ import (
 	"go-ad-server/internal/repository"
 	"go-ad-server/internal/services"
 
+	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )
 
@@ -34,6 +35,16 @@ func main() {
 
 	// 6. Router
 	r := gin.Default()
+
+	// CORS Setup
+	r.Use(cors.New(cors.Config{
+		AllowOrigins:     []string{"http://localhost:3000"},
+		AllowMethods:     []string{"GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"},
+		AllowHeaders:     []string{"Origin", "Content-Type", "Accept", "Authorization"},
+		ExposeHeaders:    []string{"Content-Length"},
+		AllowCredentials: true,
+	}))
+	r.SetTrustedProxies(nil)
 
 	api := r.Group("/") // Root group or /api/v1? User prompt URLs are /ads, /ad-serve directly.
 	// User requested:
