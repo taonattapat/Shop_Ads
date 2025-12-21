@@ -1,0 +1,7 @@
+remote: error: Trace: b7618f4c890e599bf435c509154499e39f940859a0197053435a670ab6b4c7fe        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File ad-frontend/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node is 124.36 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/taonattapat/Shop_Ads.git
+ ! [remote rejected]   main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/taonattapat/Shop_Ads.git'

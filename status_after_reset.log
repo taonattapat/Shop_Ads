@@ -1,0 +1,151 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	new file:   ad-frontend/.next/app-build-manifest.json
+	new file:   ad-frontend/.next/build-manifest.json
+	new file:   ad-frontend/.next/cache/.tsbuildinfo
+	new file:   ad-frontend/.next/cache/webpack/client-development-fallback/0.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development-fallback/index.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/0.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/1.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/10.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/2.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/3.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/4.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/5.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/6.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/7.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/8.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/9.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/index.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/client-development/index.pack.gz.old
+	new file:   ad-frontend/.next/cache/webpack/client-production/0.pack
+	new file:   ad-frontend/.next/cache/webpack/client-production/index.pack
+	new file:   ad-frontend/.next/cache/webpack/server-development/0.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/1.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/2.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/3.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/4.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/5.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/6.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/7.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/index.pack.gz
+	new file:   ad-frontend/.next/cache/webpack/server-development/index.pack.gz.old
+	new file:   ad-frontend/.next/cache/webpack/server-production/0.pack
+	new file:   ad-frontend/.next/cache/webpack/server-production/index.pack
+	new file:   ad-frontend/.next/package.json
+	new file:   ad-frontend/.next/react-loadable-manifest.json
+	new file:   ad-frontend/.next/server/app-paths-manifest.json
+	new file:   ad-frontend/.next/server/app/_not-found_client-reference-manifest.js
+	new file:   ad-frontend/.next/server/app/demo/page.js
+	new file:   ad-frontend/.next/server/app/demo/page_client-reference-manifest.js
+	new file:   ad-frontend/.next/server/app/not-found.js
+	new file:   ad-frontend/.next/server/app/not-found_client-reference-manifest.js
+	new file:   ad-frontend/.next/server/app/page.js
+	new file:   ad-frontend/.next/server/app/page_client-reference-manifest.js
+	new file:   ad-frontend/.next/server/middleware-build-manifest.js
+	new file:   ad-frontend/.next/server/middleware-manifest.json
+	new file:   ad-frontend/.next/server/middleware-react-loadable-manifest.js
+	new file:   ad-frontend/.next/server/next-font-manifest.js
+	new file:   ad-frontend/.next/server/next-font-manifest.json
+	new file:   ad-frontend/.next/server/pages-manifest.json
+	new file:   ad-frontend/.next/server/server-reference-manifest.js
+	new file:   ad-frontend/.next/server/server-reference-manifest.json
+	new file:   ad-frontend/.next/server/vendor-chunks/@swc.js
+	new file:   ad-frontend/.next/server/vendor-chunks/asynckit.js
+	new file:   ad-frontend/.next/server/vendor-chunks/axios.js
+	new file:   ad-frontend/.next/server/vendor-chunks/call-bind-apply-helpers.js
+	new file:   ad-frontend/.next/server/vendor-chunks/combined-stream.js
+	new file:   ad-frontend/.next/server/vendor-chunks/debug.js
+	new file:   ad-frontend/.next/server/vendor-chunks/delayed-stream.js
+	new file:   ad-frontend/.next/server/vendor-chunks/dunder-proto.js
+	new file:   ad-frontend/.next/server/vendor-chunks/es-define-property.js
+	new file:   ad-frontend/.next/server/vendor-chunks/es-errors.js
+	new file:   ad-frontend/.next/server/vendor-chunks/es-object-atoms.js
+	new file:   ad-frontend/.next/server/vendor-chunks/es-set-tostringtag.js
+	new file:   ad-frontend/.next/server/vendor-chunks/follow-redirects.js
+	new file:   ad-frontend/.next/server/vendor-chunks/form-data.js
+	new file:   ad-frontend/.next/server/vendor-chunks/function-bind.js
+	new file:   ad-frontend/.next/server/vendor-chunks/get-intrinsic.js
+	new file:   ad-frontend/.next/server/vendor-chunks/get-proto.js
+	new file:   ad-frontend/.next/server/vendor-chunks/gopd.js
+	new file:   ad-frontend/.next/server/vendor-chunks/has-flag.js
+	new file:   ad-frontend/.next/server/vendor-chunks/has-symbols.js
+	new file:   ad-frontend/.next/server/vendor-chunks/has-tostringtag.js
+	new file:   ad-frontend/.next/server/vendor-chunks/hasown.js
+	new file:   ad-frontend/.next/server/vendor-chunks/lucide-react.js
+	new file:   ad-frontend/.next/server/vendor-chunks/math-intrinsics.js
+	new file:   ad-frontend/.next/server/vendor-chunks/mime-db.js
+	new file:   ad-frontend/.next/server/vendor-chunks/mime-types.js
+	new file:   ad-frontend/.next/server/vendor-chunks/ms.js
+	new file:   ad-frontend/.next/server/vendor-chunks/next.js
+	new file:   ad-frontend/.next/server/vendor-chunks/proxy-from-env.js
+	new file:   ad-frontend/.next/server/vendor-chunks/supports-color.js
+	new file:   ad-frontend/.next/server/webpack-runtime.js
+	new file:   ad-frontend/.next/static/chunks/app-pages-internals.js
+	new file:   ad-frontend/.next/static/chunks/app/demo/page.js
+	new file:   ad-frontend/.next/static/chunks/app/layout.js
+	new file:   ad-frontend/.next/static/chunks/app/not-found.js
+	new file:   ad-frontend/.next/static/chunks/app/page.js
+	new file:   ad-frontend/.next/static/chunks/main-app.js
+	new file:   ad-frontend/.next/static/chunks/polyfills.js
+	new file:   ad-frontend/.next/static/chunks/webpack.js
+	new file:   ad-frontend/.next/static/css/app/layout.css
+	new file:   ad-frontend/.next/static/development/_buildManifest.js
+	new file:   ad-frontend/.next/static/development/_ssgManifest.js
+	new file:   ad-frontend/.next/static/media/19cfc7226ec3afaa-s.woff2
+	new file:   ad-frontend/.next/static/media/21350d82a1f187e9-s.woff2
+	new file:   ad-frontend/.next/static/media/8e9860b6e62d6359-s.woff2
+	new file:   ad-frontend/.next/static/media/ba9851c3c22cd980-s.woff2
+	new file:   ad-frontend/.next/static/media/c5fe6dc8356a8c31-s.woff2
+	new file:   ad-frontend/.next/static/media/df0a9ae256c0569c-s.woff2
+	new file:   ad-frontend/.next/static/media/e4af272ccee01ff0-s.p.woff2
+	new file:   ad-frontend/.next/static/webpack/57c18d780942f93b.webpack.hot-update.json
+	new file:   ad-frontend/.next/static/webpack/633457081244afec._.hot-update.json
+	new file:   ad-frontend/.next/static/webpack/app/layout.57c18d780942f93b.hot-update.js
+	new file:   ad-frontend/.next/static/webpack/e25bb71bd486038f.webpack.hot-update.json
+	new file:   ad-frontend/.next/static/webpack/webpack.57c18d780942f93b.hot-update.js
+	new file:   ad-frontend/.next/static/webpack/webpack.e25bb71bd486038f.hot-update.js
+	new file:   ad-frontend/.next/trace
+	new file:   ad-frontend/.next/types/app/demo/page.ts
+	new file:   ad-frontend/.next/types/app/layout.ts
+	new file:   ad-frontend/.next/types/app/page.ts
+	new file:   ad-frontend/.next/types/package.json
+	new file:   ad-frontend/app/ads/create/page.tsx
+	new file:   ad-frontend/app/demo/page.tsx
+	new file:   ad-frontend/app/globals.css
+	new file:   ad-frontend/app/layout.tsx
+	new file:   ad-frontend/app/page.tsx
+	new file:   ad-frontend/components/AdCard.tsx
+	new file:   ad-frontend/components/Navbar.tsx
+	new file:   ad-frontend/next-env.d.ts
+	new file:   ad-frontend/next.config.js
+	new file:   ad-frontend/package-lock.json
+	new file:   ad-frontend/package.json
+	new file:   ad-frontend/postcss.config.js
+	new file:   ad-frontend/scripts/diagnose_ads.js
+	new file:   ad-frontend/scripts/fix_ads.js
+	new file:   ad-frontend/tailwind.config.ts
+	new file:   ad-frontend/tsconfig.json
+	modified:   go-ad-server/cmd/api/main.go
+	modified:   go-ad-server/go.mod
+	modified:   go-ad-server/go.sum
+	modified:   go-ad-server/internal/repository/ad_repository.go
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	commits_to_push.log
+	fix_git.bat
+	git_commit.log
+	git_history.log
+	git_push.log
+	git_push_retry.log
+	git_rm.log
+	git_status.log
+	git_summary.log
+	reset.log
+	status_after_reset.log
+
